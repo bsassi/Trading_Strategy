@@ -1,3 +1,5 @@
+# Test
+
 # Libraries
 import vectorbt as vbt
 import pandas as pd
@@ -70,3 +72,13 @@ stats = pf_100_ma_strats[best_index].stats()
 stats
 
 pf_100_ma_strats[best_index].plot().show()
+
+# Conclusions ----
+# You can do this!
+# There's a lot more to learn:
+# - More Trading Strategies
+# - Risk Management
+# - Portfolio Optimization
+# - Machine Learning
+# - Advanced Backtesting
+# - Live Trading & Execution
